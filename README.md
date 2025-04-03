@@ -34,9 +34,3 @@
 GitHub: [bakiir](https://github.com/bakiir)
 ```
 
-Добавь в корень проекта этот файл (`README.md`), закоммить и отправь в репозиторий:  
-```sh
-git add README.md
-git commit -m "Добавлен README"
-git push origin main
-```
